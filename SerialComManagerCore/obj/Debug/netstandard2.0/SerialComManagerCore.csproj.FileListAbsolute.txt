@@ -1,0 +1,8 @@
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\bin\Debug\netstandard2.0\SerialComManagerCore.deps.json
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\bin\Debug\netstandard2.0\SerialComManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\obj\Debug\netstandard2.0\SerialComManagerCore.AssemblyInfoInputs.cache
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\obj\Debug\netstandard2.0\SerialComManagerCore.AssemblyInfo.cs
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\bin\Debug\netstandard2.0\SerialComManagerCore.pdb
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\obj\Debug\netstandard2.0\SerialComManagerCore.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\obj\Debug\netstandard2.0\SerialComManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\SerialComManagerCore\SerialComManagerCore\obj\Debug\netstandard2.0\SerialComManagerCore.pdb
